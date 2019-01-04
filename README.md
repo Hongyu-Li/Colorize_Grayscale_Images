@@ -1,2 +1,2 @@
-# Colorize_Grayscale_Images
+# Colorize Grayscale Images
 Implementations of colorization algorithms.  
