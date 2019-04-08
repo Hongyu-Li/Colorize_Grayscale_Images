@@ -27,7 +27,7 @@ According to the result, we could see that this model performs well, especially 
 
 Here, I used the architecture of  [pix2pix](https://phillipi.github.io/pix2pix/) as my cGAN colorization model. The notebook that I used to train is called `cGAN_colorization.ipynb` which could be found in `./main/` also. Its results are as below. 
 
- ![](./figs/cGAN.PNG)
+ ![](./figs/cGAN.png)
 
 The results show that cGAN does do a great job on the task of colorization. Its predictions are close the ground truth and it's more robust than the CNN model. 
 
@@ -35,7 +35,7 @@ The results show that cGAN does do a great job on the task of colorization. Its 
 
 ## More Applications
 
-  ### Colorize legacy black and white images
+### Colorize legacy black and white images
 
 I used the cGAN model which performs better than the other two models to colorize four legacy black and white images. The results are like this.
 
