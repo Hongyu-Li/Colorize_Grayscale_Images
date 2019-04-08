@@ -53,7 +53,7 @@ I also developed a dash app which is user-interactive. It means that users could
 
 In `./pretrainedModel/` folder, you could find the weights file for CNN and cGAN. The cGAN generator weight file is too big to upload, but you could download it [here](http://www.columbia.edu/~hl3099/csu/generator_epoch60_weight_100.h5). 
 
-This project is just my alpha version of studying on colorization, if you're also interested in colorization and want to dig into this topic a little bit deeper, feel free to contact me and let's play with colorization together! 
+This project is just my alpha version of studying on colorization, if you're also interested in colorization and want to dig into this topic a little bit deeper, feel free to contact me! 
 
 
 
